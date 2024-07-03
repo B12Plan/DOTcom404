@@ -1,6 +1,6 @@
 # DOTcom404...
 name: Node.js CI
-
+/
 on:
   push:
     branches: [ "main" ]
