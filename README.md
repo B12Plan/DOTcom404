@@ -1,4 +1,4 @@
-# DOTcom404...
+# DOTcom404.
 name: Node.js CI
 /
 on:
